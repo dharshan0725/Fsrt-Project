@@ -1,0 +1,160 @@
+body {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  background-color: hsl(329, 67%, 92%);
+}
+.box {
+  border: none;
+  width: 850px;
+  margin: 30px auto;
+  background-color: white;
+  border-radius: 10px;
+}
+.image {
+  width: 100%;
+
+  box-sizing: border-box;
+  border-radius: 20px;
+  border: none;
+  padding: 15px 15px;
+}
+.heading1 {
+  font-family: young serif;
+  margin-left: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-weight: 400;
+}
+.para1 {
+  font-family: "Outfit", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  margin-left: 20px;
+}
+.box2 {
+  border: none;
+  border-radius: 10px;
+  margin: 30px;
+  padding: 20px 20px;
+  background-color: hsl(333, 82%, 96%);
+}
+.heading2 {
+  font-family: "Outfit", sans-serif;
+  color: hsl(332, 51%, 32%);
+  font-weight: 600;
+}
+.prep_time {
+  margin: 10px;
+  font-family: "Outfit", sans-serif;
+  color: hsl(332, 51%, 32%);
+}
+.total {
+  margin: 10px;
+  color: hsla(0, 0%, 0%, 0.664);
+}
+.prep {
+  margin: 10px;
+  color: hsla(0, 0%, 0%, 0.61);
+}
+.cook {
+  margin: 10px;
+  color: hsla(0, 0%, 0%, 0.61);
+}
+.box3 {
+  margin: 20px;
+}
+.heading3 {
+  font-family: "young serif", sans-serif;
+  font-weight: 400;
+  color: hsl(14, 45%, 36%);
+}
+.ingredients {
+  color: hsla(0, 0%, 0%, 0.822);
+  font-family: "Outfit", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+.egg {
+  margin: 10px;
+}
+.salt {
+  margin: 10px;
+}
+.pepper {
+  margin: 10px;
+}
+.oil {
+  margin: 10px;
+}
+.optional {
+  margin: 10px;
+}
+.box4 {
+  margin: 20px;
+}
+.heading4 {
+  font-family: "young serif", sans-serif;
+  font-weight: 400;
+  color: hsl(14, 45%, 36%);
+}
+.instructions {
+  color: hsla(0, 0%, 0%, 0.822);
+  font-family: "Outfit", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+.beat {
+  margin: 10px;
+}
+.heat {
+  margin: 10px;
+}
+.cook2 {
+  margin: 10px;
+}
+.add {
+  margin: 10px;
+}
+.fold {
+  margin: 10px;
+}
+.enjoy {
+  margin: 10px;
+}
+.heading5 {
+  font-family: "young serif", sans-serif;
+  font-weight: 400;
+  color: hsl(14, 45%, 36%);
+  margin: 20px;
+}
+.para2 {
+  font-family: "Outfit", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  margin-left: 20px;
+  color: hsla(0, 0%, 0%, 0.836);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  color: hsla(0, 0%, 0%, 0.781);
+}
+tr,
+td {
+  border-bottom: 1px solid;
+  padding: 10px;
+}
+.myname {
+  border: none;
+  width: 450px;
+  margin: 10px auto;
+  border-radius: 10px;
+  background-color: hsl(329, 67%, 92%);
+  cursor: pointer;
+}
+.para3 {
+  font-family: "Outfit", sans-serif;
+  padding: 10px 10px;
+}
